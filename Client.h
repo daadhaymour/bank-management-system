@@ -9,9 +9,8 @@ using namespace std;
 
 class Client: public User {
     private:
-       string userName, firstName, lastName, address, phoneNumber;
+       string userName,password, firstName, lastName, address, phoneNumber;
        int clientID;
-       string password;
        DebitCard* debitCard;
        
     public:
