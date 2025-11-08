@@ -2,6 +2,7 @@
 #ifndef EMPLOYEE_H
 #define EMPLOYEE_H
 #include <iostream>
+#include "User.h"
 
 using namespace std;
 
